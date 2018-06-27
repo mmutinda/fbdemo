@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FacebookDemo</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="powered_by_fb">Powered by facebook</string>
+    <string name="facebooksignin">SIGN IN</string>
+    <string name="facebooksigup">REGISTER</string>
+    <string name="todo">To do</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">REGISTER</string>
+    <string name="username_hint">Username</string>
+    <string name="pin">Password</string>
+    <string name="log_in">LOGIN </string>
+    <string name="missing_username">Username missing </string>
+    <string name="missing_password">Password missing </string>
+    <string name="missing_email">Email missing </string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_dashboard">Home</string>
+    <string name="titleText">Posts</string>
+    <string name="description_thumbnail">Description</string>
+    <string name="loading">Loading</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="empty_post">Please enter post</string>
+    <string name="title_activity_image_upload">ImageUpload</string>
+    <string name="take_picture">take picture</string>
+    <string name="upload">Upload</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+</resources>
